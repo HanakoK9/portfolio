@@ -12,8 +12,8 @@ function About() {
           <div className='flex flex-col p-6 col-span-full row-span-full lg:col-span-8 lg:p-10'>
             <h1 className='text-4xl text-gray-300 font-semibold'>About ME</h1>
             <p className='text-xl text-gray-400 flex-1 pt-2'>
-              Hi, I am Bhupesh, a web developer based in India. currently
-              pursuing Bachelor's in Computer Science Engineering. I love
+              Hi, I am Bhupesh, a web developer based in India currently
+              pursuing B.Tech in Computer Science Engineering. I love
               experimenting with stuff and reading about technologies in my free
               time. I also like working with modern web technologies such as
               React, Next JS and others. I'm currently comfortable with
