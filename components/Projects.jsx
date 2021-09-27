@@ -9,8 +9,8 @@ function Projects() {
           My Recent Projects
         </h1>
 
-        <div className='lg:m-4 shadow-lg rounded-lg bg-transparent my-12 mx-8 lg:flex'>
-          <div className='mt-4 lg:w-3/6'>
+        <div className='lg:m-4 shadow-lg rounded-lg bg-transparent my-12 mx-8 px-4 lg:flex'>
+          <div className='mt-4 lg:w-4/6'>
             <Image
               src='/miniblog.png'
               alt='miniblog'
@@ -72,8 +72,8 @@ function Projects() {
         </div>
 
         <div className='items-center container mx-auto my-auto'>
-          <div className='lg:m-4 rounded-lg bg-transparent shadow-xl my-12 mx-8 lg:flex flex-row-reverse'>
-            <div className='mt-4 lg:w-3/6'>
+          <div className='lg:m-4 rounded-lg bg-transparent shadow-xl my-12 mx-8 px-4 lg:flex flex-row-reverse'>
+            <div className='mt-4 lg:w-2/5'>
               <Image
                 src='/palette.png'
                 alt='palette'
@@ -124,7 +124,7 @@ function Projects() {
             </div>
           </div>
 
-          <div className='lg:m-4 shadow-xl rounded-lg my-12 mx-8 lg:flex'>
+          <div className='lg:m-4 shadow-xl rounded-lg my-12 mx-8 px-4 lg:flex'>
             <div className='mt-4 lg:w-5/6'>
               <Image
                 src='/animedb.png'
