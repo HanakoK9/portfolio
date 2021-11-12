@@ -127,8 +127,8 @@ function Projects() {
           <div className='lg:m-4 shadow-xl rounded-lg my-12 mx-8 px-4 lg:flex'>
             <div className='mt-4 lg:w-5/6'>
               <Image
-                src='/animedb.png'
-                alt='animedb'
+                src='/anisearch.jpeg'
+                alt='anisearch'
                 height={400}
                 width={800}
                 objectFit='contain'
@@ -137,17 +137,17 @@ function Projects() {
             </div>
             <div className='p-4'>
               <h3 className='font-medium text-gray-100 text-lg my-2 uppercase'>
-                AnimeDB
+                Anisearch
               </h3>
 
               <div className='flex'>
-                <a href='https://github.com/HanakoK9/AnimeDB' target='_blank'>
+                <a href='https://github.com/HanakoK9/anisearch' target='_blank'>
                   <button className='transform mouse-pointer bg-gray-600 text-sm text-white py-1 px-2 font-semibold rounded hover:bg-gray-700 dark:hover:bg-gray-600 hover:scale-90   focus:bg-gray-700 dark:focus:bg-gray-600 focus:outline-none'>
                     Code
                   </button>
                 </a>
 
-                <a href='https://anime-db-kappa.vercel.app/' target='_blank'>
+                <a href='https://anisearch-bice.vercel.app/' target='_blank'>
                   <button className='transform mouse-pointer bg-gray-600 text-sm text-white ml-2 py-1 px-2 font-semibold rounded hover:bg-gray-700 dark:hover:bg-gray-600  hover:scale-90 dark:focus:bg-gray-600 focus:outline-none'>
                     Live
                   </button>
@@ -155,7 +155,7 @@ function Projects() {
               </div>
 
               <p className='text-justify mt-2 text-gray-200'>
-                Anime Search Engine made with React and Next JS. It uses Jikan
+                Anime Search Engine made with React, Next JS and Tailwind CSS. It uses Jikan
                 API to fetch data using Fetch API from MyAnimeList to show top
                 ranked anime and manga, along with an anime search engine and a
                 custom 404 page.
@@ -172,7 +172,7 @@ function Projects() {
                   Next JS
                 </span>
                 <span className='transform transition-all duration-150 inline-block bg-pink-800  bg-opacity-75 rounded px-2 py-2 ml-2 text-md font-thin text-gray-200 hover:shadow-sm  hover:scale-105'>
-                  CSS
+                  Tailwind CSS
                 </span>
               </div>
             </div>
