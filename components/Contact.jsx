@@ -13,7 +13,7 @@ function Contact() {
           </div>
           <div className='flex justify-center pt-2 space-x-4 align-center'>
             <span className='pl-4'>
-              <a href='https://github.com/HanakoK9' target='_blank'>
+              <a href='https://github.com/bhupeshpr25' target='_blank'>
                 <i className='ib la-github'></i>
               </a>
             </span>
