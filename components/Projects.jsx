@@ -26,7 +26,7 @@ function Projects() {
             </h3>
 
             <div className='flex'>
-              <a href='https://github.com/HanakoK9/miniblog' target='_blank'>
+              <a href='https://github.com/bhupeshpr25/miniblog' target='_blank'>
                 <button className='transform mouse-pointer bg-gray-600 text-sm text-white py-1 px-2 font-semibold rounded hover:bg-gray-700 dark:hover:bg-gray-600  hover:scale-90 dark:focus:bg-gray-600 focus:outline-none'>
                   Code
                 </button>
@@ -90,13 +90,13 @@ function Projects() {
               </h3>
 
               <div className='flex'>
-                <a href='https://github.com/HanakoK9/palette' target='_blank'>
+                <a href='https://github.com/bhupeshpr25/palette' target='_blank'>
                   <button className='transform mouse-pointer bg-gray-600 text-sm text-white py-1 px-2 font-semibold rounded hover:bg-gray-700 dark:hover:bg-gray-600 hover:scale-90   focus:bg-gray-700 dark:focus:bg-gray-600 focus:outline-none'>
                     Code
                   </button>
                 </a>
 
-                <a href='https://hanakok9.github.io/palette/' target='_blank'>
+                <a href='https://bhupeshpr25.github.io/palette/' target='_blank'>
                   <button className='transform mouse-pointer bg-gray-600 text-sm text-white ml-2 py-1 px-2 font-semibold rounded hover:bg-gray-700 dark:hover:bg-gray-600  hover:scale-90 dark:focus:bg-gray-600 focus:outline-none'>
                     Live
                   </button>
@@ -141,7 +141,7 @@ function Projects() {
               </h3>
 
               <div className='flex'>
-                <a href='https://github.com/HanakoK9/anisearch' target='_blank'>
+                <a href='https://github.com/bhupeshpr25/anisearch' target='_blank'>
                   <button className='transform mouse-pointer bg-gray-600 text-sm text-white py-1 px-2 font-semibold rounded hover:bg-gray-700 dark:hover:bg-gray-600 hover:scale-90   focus:bg-gray-700 dark:focus:bg-gray-600 focus:outline-none'>
                     Code
                   </button>
